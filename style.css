@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align:center
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+html{
+    background-color: darkgoldenrod;
+}
+ul{
+   margin: auto;
+}
+img{
+    margin: auto;
+    display: block;
+    padding: 10px;
+    float: inline-start;
+}
